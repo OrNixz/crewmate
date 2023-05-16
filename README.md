@@ -1,5 +1,5 @@
 
-# Project Title
+# CrewMate
 
 CrewMate is a website that provides an employee management system (EMS) for businesses and organizations to manage their employees. This website contains personal information such as names, employee IDs, emails, contact information, as well as information related to job roles.
 
